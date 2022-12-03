@@ -1,0 +1,36 @@
+.menu a
+{
+    color: rgb(14, 14, 14);
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+p {
+    color: rgb(14, 14, 14);
+    font-weight: bold;
+    margin-top: 40px;
+}
+.content h3 {
+    width: 300px;
+}
+.content p {
+    width: 400px;
+}
+.content img {
+    width: 300px;
+}
+.content {
+}
+.items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+ul {
+    /*margin-top: 60px;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
